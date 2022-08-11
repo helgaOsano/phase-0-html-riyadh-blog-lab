@@ -9,8 +9,9 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, sans-serif;
   font-size: 100%;
+  color:darksalmon;
 }
 
 .wrapper {
@@ -25,8 +26,8 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Arial', serif;
+  color:deeppink;
 }
 
 h1 {
@@ -56,8 +57,8 @@ p {
 }
 
 a {
-  color: black;
-  text-decoration: none;
+  color:indigo;
+  text-decoration:wavy;
 }
 
 a:hover {
